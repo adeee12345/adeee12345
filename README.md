@@ -29,3 +29,6 @@ I'm a **Front-End Developer** with a strong passion for creating intuitive, resp
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
+
+[![](https://visitcount.itsvg.in/api?id=ade&label=Profile%20View&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
