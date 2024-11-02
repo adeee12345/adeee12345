@@ -4,6 +4,15 @@
 
 I'm a **Front-End Developer** with a strong passion for creating intuitive, responsive, and accessible web applications. With a solid foundation in HTML, CSS, JavaScript, and modern front-end frameworks, I aim to deliver seamless user experiences. I enjoy working on projects that not only look great but are also optimized for accessibility and performance.
 
+
+# Hi there 👋
+
+## Hi, I'm Ade Eka Saputra! 👋
+
+I'm a **Front-End Developer** with a strong passion for creating intuitive, responsive, and accessible web applications. With a solid foundation in HTML, CSS, JavaScript, and modern front-end frameworks, I aim to deliver seamless user experiences. I enjoy working on projects that not only look great but are also optimized for accessibility and performance.
+
+---
+
 ### My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -29,6 +38,22 @@ I'm a **Front-End Developer** with a strong passion for creating intuitive, resp
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
+
+### GitHub Stats 📊
+
+![Ade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeee12345&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeee12345&layout=compact&theme=radical)
+
+### GitHub Streak 🔥
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adeee12345&theme=radical)](https://git.io/streak-stats)
+
+### GitHub Achievements 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adeee12345&theme=dark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=ade&label=Profile%20View&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
